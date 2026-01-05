@@ -56,7 +56,7 @@ I am a Computer Science Engineering student at PES University, focused on buildi
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/Prajwal-Kittali-17  
-- LinkedIn: https://linkedin.com/in/YOUR_PROFILE  
+- LinkedIn: https://www.linkedin.com/in/prajwal-kittali-8178a7349/  
 - Email: prajwalkittali2728@gmail.com 
 
 ---
