@@ -65,7 +65,7 @@ I focus on building strong fundamentals, writing clean code, and improving my pr
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/YOUR_USERNAME  
-- LinkedIn: https://linkedin.com/in/YOUR_PROFILE  
+- LinkedIn: https://www.linkedin.com/in/prajwal-kittali-8178a7349/
 - Email: yourmail@email.com  
 
 ---
