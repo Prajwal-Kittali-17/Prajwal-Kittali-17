@@ -37,9 +37,10 @@ I am a Computer Science Engineering student at PES University, focused on buildi
 
 ## 📊 GitHub Stats
 
-![Prajwal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prajwal-Kittali-17&show_icons=true&hide=stars&theme=transparent)
+![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Prajwal-Kittali-17&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Prajwal-Kittali-17&layout=compact&theme=transparent)
+
+![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Prajwal-Kittali-17&layout=compact)
 
 ---
 
